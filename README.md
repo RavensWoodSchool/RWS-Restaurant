@@ -1,2 +1,2 @@
-# RWS-Restaurant
-RWS Restaurant Project
+# Restaurant Ordering System (Project 2B)
+Starter repository.
